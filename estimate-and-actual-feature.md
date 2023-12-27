@@ -54,7 +54,7 @@ Allow users to specify and track if data for an event is estimated or based on a
 
 - Ensure backward compatibility with existing events that do not have the `eventEstimateOrActual` field.
 - Database backup for rollback procedure
-- Plan for data migration if necessary for existing events without the new field.
+- Plan for data migration if necessary for existing events without new field
 
 
 
